@@ -1,0 +1,12 @@
+name: flutter_seo_builder
+description: A Flutter package for generating SEO-friendly tags for web applications.
+version: 1.0.3
+homepage: https://github.com/TahaAhvazi/flutter_seo_builder.git
+environment:
+  sdk: ">=2.18.0 <3.24.5"
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
